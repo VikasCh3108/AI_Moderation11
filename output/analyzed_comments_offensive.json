@@ -1,0 +1,72 @@
+[
+  {
+    "comment_id": 2,
+    "username": "reviewer456",
+    "comment_text": "I hate this! You're all idiots for buying it.",
+    "contains_profanity": false,
+    "is_offensive": true,
+    "offense_type": "hate_speech",
+    "severity": 4,
+    "explanation": "The comment contains hate speech and insults towards others, calling them 'idiots'. This can be hurtful and offensive."
+  },
+  {
+    "comment_id": 4,
+    "username": "angry_user",
+    "comment_text": "@user123 you're stupid and your opinion doesn't matter!",
+    "contains_profanity": true,
+    "is_offensive": true,
+    "offense_type": "harassment",
+    "severity": 4,
+    "explanation": "The comment is offensive and harassing towards the user, calling them 'stupid' and dismissing their opinion."
+  },
+  {
+    "comment_id": 6,
+    "username": "hater123",
+    "comment_text": "This is the worst thing ever. You people are trash.",
+    "contains_profanity": false,
+    "is_offensive": true,
+    "offense_type": "toxicity",
+    "severity": 4,
+    "explanation": "The comment is offensive and contains toxic language towards a group of people, indicating a high level of negativity and disrespect."
+  },
+  {
+    "comment_id": 8,
+    "username": "racist_user",
+    "comment_text": "You people are all the same. Go back to where you came from!",
+    "contains_profanity": false,
+    "is_offensive": true,
+    "offense_type": "hate_speech",
+    "severity": 4,
+    "explanation": "The comment contains hate speech and is discriminatory towards a group of people based on their background or ethnicity. It promotes division and hostility."
+  },
+  {
+    "comment_id": 9,
+    "username": "threat_user",
+    "comment_text": "I'm going to find you and make you pay for this.",
+    "contains_profanity": false,
+    "is_offensive": true,
+    "offense_type": "harassment",
+    "severity": 4,
+    "explanation": "The comment contains a direct threat of harm, which is considered harassment and can be alarming or distressing to the recipient."
+  },
+  {
+    "comment_id": 10,
+    "username": "sexual_harassment",
+    "comment_text": "You're hot. Send me pics.",
+    "contains_profanity": false,
+    "is_offensive": true,
+    "offense_type": "harassment",
+    "severity": 4,
+    "explanation": "The comment is sexually suggestive and inappropriate, constituting harassment. It objectifies the recipient and crosses personal boundaries."
+  },
+  {
+    "comment_id": 12,
+    "username": "bully",
+    "comment_text": "@user123 You're such a loser. No one likes you.",
+    "contains_profanity": false,
+    "is_offensive": true,
+    "offense_type": "harassment",
+    "severity": 4,
+    "explanation": "The comment is offensive and constitutes harassment as it is intended to belittle and insult the recipient."
+  }
+]

@@ -1,0 +1,104 @@
+{
+    "comments": [
+        {
+            "comment_id": 1,
+            "username": "user123",
+            "comment_text": "This product is amazing! Highly recommended."
+        },
+        {
+            "comment_id": 2,
+            "username": "reviewer456",
+            "comment_text": "I hate this! You're all idiots for buying it."
+        },
+        {
+            "comment_id": 3,
+            "username": "customer789",
+            "comment_text": "Could use some improvements but overall good."
+        },
+        {
+            "comment_id": 4,
+            "username": "angry_user",
+            "comment_text": "@user123 you're stupid and your opinion doesn't matter!"
+        },
+        {
+            "comment_id": 5,
+            "username": "tech_fan",
+            "comment_text": "Looking forward to the next version!"
+        },
+        {
+            "comment_id": 6,
+            "username": "hater123",
+            "comment_text": "This is the worst thing ever. You people are trash."
+        },
+        {
+            "comment_id": 7,
+            "username": "moderator",
+            "comment_text": "Please keep the discussion civil and respectful."
+        },
+        {
+            "comment_id": 8,
+            "username": "racist_user",
+            "comment_text": "You people are all the same. Go back to where you came from!"
+        },
+        {
+            "comment_id": 9,
+            "username": "threat_user",
+            "comment_text": "I'm going to find you and make you pay for this."
+        },
+        {
+            "comment_id": 10,
+            "username": "sexual_harassment",
+            "comment_text": "You're hot. Send me pics."
+        },
+        {
+            "comment_id": 11,
+            "username": "normal_user",
+            "comment_text": "I disagree with your opinion but I respect your right to have it."
+        },
+        {
+            "comment_id": 12,
+            "username": "bully",
+            "comment_text": "@user123 You're such a loser. No one likes you."
+        },
+        {
+            "comment_id": 13,
+            "username": "supporter",
+            "comment_text": "Thanks for sharing your experience. It's really helpful."
+        },
+        {
+            "comment_id": 14,
+            "username": "toxic_user",
+            "comment_text": "This is garbage. You're all wasting your money."
+        },
+        {
+            "comment_id": 15,
+            "username": "profane_user",
+            "comment_text": "This is f***ing terrible!"
+        },
+        {
+            "comment_id": 16,
+            "username": "harasser",
+            "comment_text": "@user123 I'm going to ruin your life for this."
+        },
+        {
+            "comment_id": 17,
+            "username": "discriminator",
+            "comment_text": "You don't belong here. Go back to your own kind."
+        },
+        {
+            "comment_id": 18,
+            "username": "neutral_user",
+            "comment_text": "I have mixed feelings about this."
+        },
+        {
+            "comment_id": 19,
+            "username": "positive_user",
+            "comment_text": "Great product! Well worth the price."
+        },
+        {
+            "comment_id": 20,
+            "username": "constructive_user",
+            "comment_text": "Could be better but has potential. Here are some suggestions..."
+        }
+    ]
+}

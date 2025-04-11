@@ -1,0 +1,202 @@
+[
+  {
+    "comment_id": 1,
+    "username": "user123",
+    "comment_text": "This product is amazing! Highly recommended.",
+    "contains_profanity": false,
+    "is_offensive": false,
+    "offense_type": "none",
+    "severity": 1,
+    "explanation": "The comment is positive and does not contain any offensive language or harmful content."
+  },
+  {
+    "comment_id": 2,
+    "username": "reviewer456",
+    "comment_text": "I hate this! You're all idiots for buying it.",
+    "contains_profanity": false,
+    "is_offensive": true,
+    "offense_type": "hate_speech",
+    "severity": 4,
+    "explanation": "The comment contains hate speech and insults towards others, calling them 'idiots'. This can be harmful and offensive to the targeted group."
+  },
+  {
+    "comment_id": 3,
+    "username": "customer789",
+    "comment_text": "Could use some improvements but overall good.",
+    "contains_profanity": false,
+    "is_offensive": false,
+    "offense_type": "none",
+    "severity": 1,
+    "explanation": "The comment is constructive and provides feedback without being offensive."
+  },
+  {
+    "comment_id": 4,
+    "username": "angry_user",
+    "comment_text": "@user123 you're stupid and your opinion doesn't matter!",
+    "contains_profanity": true,
+    "is_offensive": true,
+    "offense_type": "harassment",
+    "severity": 4,
+    "explanation": "The comment is offensive and harassing towards the user, calling them 'stupid' and dismissing their opinion. This can be hurtful and create a hostile environment."
+  },
+  {
+    "comment_id": 5,
+    "username": "tech_fan",
+    "comment_text": "Looking forward to the next version!",
+    "contains_profanity": false,
+    "is_offensive": false,
+    "offense_type": "none",
+    "severity": 1,
+    "explanation": "The comment is positive and shows anticipation for the next version. It does not contain any offensive language or intent."
+  },
+  {
+    "comment_id": 6,
+    "username": "hater123",
+    "comment_text": "This is the worst thing ever. You people are trash.",
+    "contains_profanity": false,
+    "is_offensive": true,
+    "offense_type": "harassment",
+    "severity": 4,
+    "explanation": "The comment contains harassment and derogatory language towards a group of people, which can be harmful and hurtful."
+  },
+  {
+    "comment_id": 7,
+    "username": "moderator",
+    "comment_text": "Please keep the discussion civil and respectful.",
+    "contains_profanity": false,
+    "is_offensive": false,
+    "offense_type": "none",
+    "severity": 1,
+    "explanation": "The comment is a polite reminder to maintain a respectful tone in the discussion."
+  },
+  {
+    "comment_id": 8,
+    "username": "racist_user",
+    "comment_text": "You people are all the same. Go back to where you came from!",
+    "contains_profanity": false,
+    "is_offensive": true,
+    "offense_type": "hate_speech",
+    "severity": 4,
+    "explanation": "The comment contains hate speech and is discriminatory towards a group of people based on their background or ethnicity."
+  },
+  {
+    "comment_id": 9,
+    "username": "threat_user",
+    "comment_text": "I'm going to find you and make you pay for this.",
+    "contains_profanity": false,
+    "is_offensive": true,
+    "offense_type": "harassment",
+    "severity": 4,
+    "explanation": "The comment contains a direct threat of harm, which is considered harassment and is highly severe."
+  },
+  {
+    "comment_id": 10,
+    "username": "sexual_harassment",
+    "comment_text": "You're hot. Send me pics.",
+    "contains_profanity": false,
+    "is_offensive": true,
+    "offense_type": "harassment",
+    "severity": 4,
+    "explanation": "This comment is offensive and harassing as it is requesting inappropriate photos in a suggestive manner."
+  },
+  {
+    "comment_id": 11,
+    "username": "normal_user",
+    "comment_text": "I disagree with your opinion but I respect your right to have it.",
+    "contains_profanity": false,
+    "is_offensive": false,
+    "offense_type": "none",
+    "severity": 1,
+    "explanation": "The comment is respectful and promotes healthy discussion by acknowledging differing opinions."
+  },
+  {
+    "comment_id": 12,
+    "username": "bully",
+    "comment_text": "@user123 You're such a loser. No one likes you.",
+    "contains_profanity": false,
+    "is_offensive": true,
+    "offense_type": "harassment",
+    "severity": 4,
+    "explanation": "The comment is offensive and harassing towards the user, calling them a loser and implying that no one likes them."
+  },
+  {
+    "comment_id": 13,
+    "username": "supporter",
+    "comment_text": "Thanks for sharing your experience. It's really helpful.",
+    "contains_profanity": false,
+    "is_offensive": false,
+    "offense_type": "none",
+    "severity": 1,
+    "explanation": "The comment is positive and appreciative, with no offensive content."
+  },
+  {
+    "comment_id": 14,
+    "username": "toxic_user",
+    "comment_text": "This is garbage. You're all wasting your money.",
+    "contains_profanity": false,
+    "is_offensive": false,
+    "offense_type": "none",
+    "severity": 1,
+    "explanation": "The comment expresses a negative opinion but does not contain any offensive language or targeted harassment."
+  },
+  {
+    "comment_id": 15,
+    "username": "profane_user",
+    "comment_text": "This is f***ing terrible!",
+    "contains_profanity": false,
+    "is_offensive": true,
+    "offense_type": "profanity",
+    "severity": 3,
+    "explanation": "The comment contains profanity, which can be offensive to some individuals."
+  },
+  {
+    "comment_id": 16,
+    "username": "harasser",
+    "comment_text": "@user123 I'm going to ruin your life for this.",
+    "contains_profanity": false,
+    "is_offensive": true,
+    "offense_type": "harassment",
+    "severity": 4,
+    "explanation": "The comment contains a direct threat of harm or negative impact towards another individual, which constitutes harassment. The severity is rated as 4 due to the explicit nature of the threat."
+  },
+  {
+    "comment_id": 17,
+    "username": "discriminator",
+    "comment_text": "You don't belong here. Go back to your own kind.",
+    "contains_profanity": false,
+    "is_offensive": true,
+    "offense_type": "hate_speech",
+    "severity": 4,
+    "explanation": "This comment contains hate speech by telling someone they don't belong and should go back to their own kind, implying discrimination and exclusion based on identity."
+  },
+  {
+    "comment_id": 18,
+    "username": "neutral_user",
+    "comment_text": "I have mixed feelings about this.",
+    "contains_profanity": false,
+    "is_offensive": false,
+    "offense_type": "none",
+    "severity": 1,
+    "explanation": "The comment expresses a personal opinion and does not contain any offensive language or harmful content."
+  },
+  {
+    "comment_id": 19,
+    "username": "positive_user",
+    "comment_text": "Great product! Well worth the price.",
+    "contains_profanity": false,
+    "is_offensive": false,
+    "offense_type": "none",
+    "severity": 1,
+    "explanation": "The comment is positive and does not contain any offensive language or harmful content."
+  },
+  {
+    "comment_id": 20,
+    "username": "constructive_user",
+    "comment_text": "Could be better but has potential. Here are some suggestions...",
+    "contains_profanity": false,
+    "is_offensive": false,
+    "offense_type": "none",
+    "severity": 1,
+    "explanation": "The comment is constructive and provides suggestions for improvement. It is not offensive in nature."
+  }
+]
